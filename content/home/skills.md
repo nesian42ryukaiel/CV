@@ -59,7 +59,7 @@ feature:
   - description: 
     icon: max
     icon_pack: custom
-    name: 3ds Max
+    name: Max
   - description: 
     icon: processing
     icon_pack: custom
