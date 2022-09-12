@@ -20,12 +20,7 @@ interests:
   - UI/UX Design
   - Front-end Frameworks
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: Bachelor's Degree in Entertainment Design
-#       institution: Kookmin University
-#       year: 2016
+# Languages to show in About widget
 languages:
   - Korean
   - English
