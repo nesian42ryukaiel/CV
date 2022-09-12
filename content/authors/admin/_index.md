@@ -53,8 +53,8 @@ email: 'lucas42yew@gmail.com'
 highlight_name: true
 ---
 
-Hi, I'm Kiha Yu.
+Hi, I'm Kiha Yu (a.k.a. Lucas Yew).
 
-I aspire to experience professional opportunities for participating on the creation of commercial web sites for your company, based on the skills I have now and will acquire during this job.
+I am a fresh, new front-end web developer ready to take on any challenge thrown at me. One day, I will make my name travel across the entire Globe and the Internet.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
