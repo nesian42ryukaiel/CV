@@ -29,6 +29,10 @@ feature:
     icon_pack: custom
     name: JavaScript
   - description: 
+    icon: typescript
+    icon_pack: custom
+    name: TypeScript
+  - description: 
     icon: react
     icon_pack: custom
     name: React
@@ -48,10 +52,6 @@ feature:
     icon: python
     icon_pack: custom
     name: Python
-  - description: 
-    icon: java
-    icon_pack: custom
-    name: Java
   - description: 
     icon: cpp
     icon_pack: custom
