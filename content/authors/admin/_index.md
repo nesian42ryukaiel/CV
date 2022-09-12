@@ -55,8 +55,6 @@ highlight_name: true
 
 Hi, I'm Kiha Yu (a.k.a. Lucas Yew).
 
-I am a fresh, new front-end web developer. My main skills include HTML, CSS, JavaScript, and TypeScript.
-
-I am ready to take on any challenge thrown at me.
+I am a fresh, new front-end web developer. My main skills include HTML, CSS, JavaScript, and TypeScript. I am ready to take on any challenge thrown at me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
