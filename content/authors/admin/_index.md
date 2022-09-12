@@ -26,6 +26,10 @@ interests:
 #     - course: Bachelor's Degree in Entertainment Design
 #       institution: Kookmin University
 #       year: 2016
+languages:
+  - Korean
+  - English
+  - Japanese
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
