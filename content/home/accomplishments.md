@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: uploads/cert_boostcamp.pdf
-    date_end: ''
-    date_start: '2021-01-25'
+    date_end: '2022-08-12'
+    date_start: '2022-07-18'
     description: ''
     organization: NAVER CONNECT
     organization_url: https://boostcamp.connect.or.kr
